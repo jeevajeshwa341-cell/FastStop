@@ -1,0 +1,10 @@
+{
+  "name": "FastStop Tamil Nadu Live Bus Tracker",
+  "description": "State-wide Tamil Nadu transportation data architecture across all 38 districts with local bus stops, bus numbers, route planning, downstream stops, and live GPS tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
